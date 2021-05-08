@@ -27,8 +27,9 @@ body{
 	background: #DCDCDC;
 }
 .fixed-top{
-	color: #FFFFFF;
+	color: #d5f6f6;
 	background:#001314;
+	padding: 1% 5% 1% 5%;
 } 
 .fixed-top .navbar-brand{
 	font-family: 'Pacifico', cursive;
@@ -305,13 +306,30 @@ margin-top: 5%;
 	text-align: center;
 	font-family: 'Bree Serif', serif;
 }
+footer{	
+	background:#001314;
+	width: 100%;
+	height: auto;
+	color: #FFFFFF;
+	padding: 5%;
+	font-family: 'Bree Serif', serif;
+	text-align: center;
+
+}
+footer img{	 
+	width: 5%;
+	margin: 2% 0% 0% 2%;
+
+}
 }
 @media (min-width: 500px) { 
 body{
 	background: #DCDCDC;
 }
 .fixed-top{
-	color: #FFFFFF;
+	color: #d5f6f6;
+	background:#001314;
+	padding: 1% 9% 1% 9%;
 } 
 .fixed-top .nav-link{
 	color: #FFFFFF;
@@ -581,13 +599,30 @@ margin-top: 5%;
 	text-align: center;
 	font-family: 'Bree Serif', serif;
 }
+footer{	
+	background:#001314;
+	width: 100%;
+	height: auto;
+	color: #FFFFFF;
+	padding: 5%;
+	font-family: 'Bree Serif', serif;
+	text-align: center;
+
+}
+footer img{	 
+	width: 5%;
+	margin: 2% 0% 0% 2%;
+
+}
 }
 @media (min-width: 768px) { 
 body{
 	background: #DCDCDC;
 }
 .fixed-top{
-	color: #FFFFFF;
+	color: #d5f6f6;
+	background:#001314;
+	padding: 1% 9% 1% 9%;
 } 
 .fixed-top .nav-link{
 	color: #FFFFFF;
@@ -861,7 +896,21 @@ margin-top: 10%;
 	text-align: left;
 	font-family: 'Bree Serif', serif;
 }
+footer{	
+	background:#001314;
+	width: 100%;
+	height: auto;
+	color: #FFFFFF;
+	padding: 5%;
+	font-family: 'Bree Serif', serif;
+	text-align: center;
 
+}
+footer img{	 
+	width: 4%;
+	margin: 2% 0% 0% 2%;
+
+}
 }
 
 @media (min-width: 992px) { 
@@ -1144,6 +1193,21 @@ margin-top: 10%;
 .my-content-6 .timeline-kanan p{
 	text-align: left;
 	font-family: 'Bree Serif', serif;
+}
+footer{	
+	background:#001314;
+	width: 100%;
+	height: auto;
+	color: #FFFFFF;
+	padding: 4%;
+	font-family: 'Bree Serif', serif;
+	text-align: center;
+
+}
+footer img{	 
+	width: 3%;
+	margin: 2% 0% 0% 2%;
+
 }
 
  }
@@ -1682,6 +1746,21 @@ margin-top: 10%;
 .my-content-6 .timeline-kanan p{
 	text-align: left;
 	font-family: 'Bree Serif', serif;
+}
+footer{	
+	background:#001314;
+	width: 100%;
+	height: auto;
+	color: #FFFFFF;
+	padding: 4%;
+	font-family: 'Bree Serif', serif;
+	text-align: center;
+
+}
+footer img{	 
+	width: 3%;
+	margin: 2% 0% 0% 2%;
+
 }
 
 }
